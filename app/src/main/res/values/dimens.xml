@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Main -->
+	<dimen name="main_taille_texte_saisie">24sp</dimen>
+	<dimen name="main_marge_saisie">8dp</dimen>
+	<dimen name="main_taille_libelle_valider">30sp</dimen>
+	<dimen name="main_padding_valider">16dp</dimen>
+	<dimen name="main_taille_texte_resultat">24sp</dimen>
+	<dimen name="main_marge_resultat">16dp</dimen>
+	<dimen name="main_hauteur_progressbar">16dp</dimen>
+	<dimen name="main_marge_progressbar">16dp</dimen>
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+
+	<!-- Commun -->
+	<string name="app_name">Coroutine</string>
+
+	<!-- Main -->
+	<string name="main_hint_saisie">Saisir un nombre &#8230;</string>
+	<string name="main_libelle_valider">Valider</string>
+	<string name="main_erreur_calcul">Une erreur est apparue pendant le calcul</string>
+	<string name="main_resultat_positif">Ce nombre est premier !</string>
+	<string name="main_resultat_negatif">Ce nombre n\'est pas premier</string>
+	<string name="main_erreur_saisie">Saisir un nombre !</string>
+
+</resources>
